@@ -30,10 +30,11 @@ export default function Testimoni() {
             </p>
             <div className="bg-[#D9D9D9] rounded-lg p-5">
               <p className="text-black text-md">
-                "Cukur di Rock n Roll Haircutting itu seperti jatuh cinta...
+                Cukur di Rock n Roll Haircutting itu seperti jatuh cinta...
                 tiba-tiba dan tak terelakkan. Saya masuk dengan kepala penuh
                 pikiran, keluar dengan kepala penuh gaya. Tukangnya tahu persis
-                perbedaan antara potongan 'galau' dan 'move on'."
+                perbedaan antara potongan &quot;galau&quot; dan &quot;move
+                on&quot;.
               </p>
             </div>
           </div>
@@ -49,11 +50,11 @@ export default function Testimoni() {
             </p>
             <div className="bg-[#D9D9D9] rounded-lg p-5">
               <p className="text-black text-md">
-                "Saya datang dengan rambut kayak headphone kusut. Tapi setelah
-                dicukur, saya merasa seperti drummer band Inggris yang baru
-                pulang dari Grammy. Cepat, rapi, tapi tetap rock n roll. Saya
-                suka tempat ini karena mereka nggak cuma potong rambut, tapi
-                juga ego."
+                &quot;Saya datang dengan rambut kayak headphone kusut. Tapi
+                setelah dicukur, saya merasa seperti drummer band Inggris yang
+                baru pulang dari Grammy. Cepat, rapi, tapi tetap rock n roll.
+                Saya suka tempat ini karena mereka nggak cuma potong rambut,
+                tapi juga ego.&quot;
               </p>
             </div>
           </div>
@@ -69,10 +70,10 @@ export default function Testimoni() {
             </p>
             <div className="bg-[#D9D9D9] rounded-lg p-5">
               <p className="text-black text-md">
-                "Saya pernah potong di tempat lain, hasilnya kayak habis ribut
-                sama tukang cukur. Tapi di Rock n Roll Haircutting? Potongannya
-                harmonis, simetris, dan ada improvisasi kayak solo gitar.
-                Respect!"
+                &quot;Saya pernah potong di tempat lain, hasilnya kayak habis
+                ribut sama tukang cukur. Tapi di Rock n Roll Haircutting?
+                Potongannya harmonis, simetris, dan ada improvisasi kayak solo
+                gitar. Respect!&quot;
               </p>
             </div>
           </div>
