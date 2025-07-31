@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 import { Instagram, MailOutlineRounded, WhatsApp } from "@mui/icons-material";
-import logoFooter from "../assets/rnrlogo.png";
+import logoFooter from "../assets/rnrLogo.png";
 
 export default function OurService() {
   return (
