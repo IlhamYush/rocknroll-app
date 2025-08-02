@@ -11,7 +11,7 @@ export default function OurService() {
     <div className="p-10">
       <div className="flex justify-center">
         <div className="rounded-[23px] bg-[#660000] p-4 w-[15%]">
-          <p className="font-bold text-2xl text-center">Our Services</p>
+          <p className="font-bold text-2xl text-center text-white">Our Services</p>
         </div>
       </div>
 
